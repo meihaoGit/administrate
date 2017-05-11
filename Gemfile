@@ -5,7 +5,8 @@ gemspec
 gem "administrate-field-image"
 gem "autoprefixer-rails"
 gem "faker"
-gem "pg"
+# gem "pg"
+gem 'mysql2'
 gem "redcarpet"
 gem "sentry-raven"
 gem "unicorn"

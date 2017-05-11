@@ -144,10 +144,10 @@ GEM
     momentjs-rails (2.17.1)
       railties (>= 3.1)
     multipart-post (2.0.0)
+    mysql2 (0.4.6)
     nokogiri (1.7.1)
       mini_portile2 (~> 2.1.0)
     normalize-rails (4.1.1)
-    pg (0.18.3)
     poltergeist (1.12.0)
       capybara (~> 2.1)
       cliver (~> 0.3.1)
@@ -265,7 +265,7 @@ DEPENDENCIES
   formulaic
   i18n-tasks
   launchy
-  pg
+  mysql2
   poltergeist
   pry-rails
   rack-timeout
